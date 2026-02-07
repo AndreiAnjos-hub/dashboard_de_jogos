@@ -1,9 +1,5 @@
 # Dashboard de Jogos
 
-# Criação do Servidor no cmd:
-
-# python -m streamlit run dashboard_de_jogos.py
-
 import pandas as pd
 import streamlit as st  
 import plotly.express as px
